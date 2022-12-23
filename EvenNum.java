@@ -1,4 +1,4 @@
-#Displaying the even numbers which are mutiples of 5
+//Displaying the even numbers between 1 to 100 and are multiples of 5
 public class EvenNum{
 /**
  * @param args
